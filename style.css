@@ -1,0 +1,19 @@
+
+.blue_dotted_box { border-width: 10px;
+    border-color: #d4eef7;
+    border-style: dotted;
+    margin-top: -20px;
+  }
+
+
+h1 {
+    background-color: #a8eff7;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #FF5722;
+    font-family: sans-serif;
+    border-width: 5px;
+    border-color: #03A9F4;
+    border-style: double;
+}
